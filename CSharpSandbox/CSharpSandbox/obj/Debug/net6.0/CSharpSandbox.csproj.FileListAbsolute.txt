@@ -1,0 +1,15 @@
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/obj/Debug/net6.0/CSharpSandbox.csproj.AssemblyReference.cache
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/obj/Debug/net6.0/CSharpSandbox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/obj/Debug/net6.0/CSharpSandbox.AssemblyInfoInputs.cache
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/obj/Debug/net6.0/CSharpSandbox.AssemblyInfo.cs
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/obj/Debug/net6.0/CSharpSandbox.csproj.CoreCompileInputs.cache
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/bin/Debug/net6.0/CSharpSandbox
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/bin/Debug/net6.0/CSharpSandbox.deps.json
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/bin/Debug/net6.0/CSharpSandbox.runtimeconfig.json
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/bin/Debug/net6.0/CSharpSandbox.dll
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/bin/Debug/net6.0/CSharpSandbox.pdb
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/obj/Debug/net6.0/CSharpSandbox.dll
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/obj/Debug/net6.0/refint/CSharpSandbox.dll
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/obj/Debug/net6.0/CSharpSandbox.pdb
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/obj/Debug/net6.0/CSharpSandbox.genruntimeconfig.cache
+/Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/obj/Debug/net6.0/ref/CSharpSandbox.dll

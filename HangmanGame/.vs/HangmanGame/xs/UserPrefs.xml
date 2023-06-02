@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{157FD095-22F8-4112-9159-5AE7A63608C7}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HangmanGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HangmanGame/GameDisplay.cs">
+    <Files>
+      <File FileName="HangmanGame/GameDisplay.cs" Line="1" Column="1" />
+      <File FileName="HangmanGame/Word.cs" Line="65" Column="72" />
+      <File FileName="HangmanGame/Hangman.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HangmanGame" expanded="True">
+            <Node name="HangmanGame" expanded="True">
+              <Node name="Word.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

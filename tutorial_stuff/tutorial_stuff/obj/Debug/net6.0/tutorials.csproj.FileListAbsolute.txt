@@ -1,0 +1,15 @@
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\bin\Debug\net6.0\tutorials.exe
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\bin\Debug\net6.0\tutorials.deps.json
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\bin\Debug\net6.0\tutorials.runtimeconfig.json
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\bin\Debug\net6.0\tutorials.dll
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\bin\Debug\net6.0\tutorials.pdb
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\obj\Debug\net6.0\tutorials.csproj.AssemblyReference.cache
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\obj\Debug\net6.0\tutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\obj\Debug\net6.0\tutorials.AssemblyInfoInputs.cache
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\obj\Debug\net6.0\tutorials.AssemblyInfo.cs
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\obj\Debug\net6.0\tutorials.csproj.CoreCompileInputs.cache
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\obj\Debug\net6.0\tutorials.dll
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\obj\Debug\net6.0\refint\tutorials.dll
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\obj\Debug\net6.0\tutorials.pdb
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\obj\Debug\net6.0\tutorials.genruntimeconfig.cache
+C:\Users\ajpli\programming-projects\C#\tutorial_stuff\tutorial_stuff\obj\Debug\net6.0\ref\tutorials.dll

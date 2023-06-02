@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{3B336405-1527-4A28-9EF5-D7ED1AC6FE64}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tutorial_stuff/Program.cs">
+    <Files>
+      <File FileName="tutorial_stuff/Program.cs" Line="13" Column="23" />
+      <File FileName="tutorial_stuff/Solution.cs" />
+      <File FileName="tutorial_stuff/Chef.cs" />
+      <File FileName="tutorial_stuff/ItalianChef.cs" />
+      <File FileName="tutorial_stuff/Student.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/apliska873/Projects/tutorial_stuff/tutorial_stuff/Solution.cs" relfile="tutorial_stuff/Solution.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.beginnerTutorials PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
