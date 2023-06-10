@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CSharpSandbox
-build_property.ProjectDir = /Users/apliska873/Projects/CSharpSandbox/CSharpSandbox/
+build_property.ProjectDir = /Users/apliska873/GitHub/cs-projects/CSharpSandbox/CSharpSandbox/

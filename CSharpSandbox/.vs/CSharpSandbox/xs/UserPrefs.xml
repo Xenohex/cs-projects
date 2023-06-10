@@ -2,14 +2,22 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="CSharpSandbox/LeetCode.cs">
     <Files>
       <File FileName="CSharpSandbox/Sandbox.cs" Line="15" Column="6" IsPinned="True" />
-      <File FileName="CSharpSandbox/Algorithms.cs" />
       <File FileName="CSharpSandbox/LeetCode.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpSandbox" expanded="True" selected="True">
+            <Node name="CSharpSandbox" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.CSharpSandbox PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CSharpSandbox PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

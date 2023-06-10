@@ -8,9 +8,9 @@ namespace CSharpSandbox
             Algorithms a = new Algorithms();
             LeetCode leet = new LeetCode();
 
-            //Console.WriteLine(leet.LongestPalindrome("babad"));
-            int[] A = { 1, 2, 3, 4};
-            a.HeapPerm(A, 4, 4);
+
+            string s = "()[]({})";
+            Console.WriteLine(leet.IsValid(s));
         }
     }
 }

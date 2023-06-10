@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/apliska873/GitHub/cs-projects/CSharpSandbox/CSharpSandbox/CSharpSandbox.csproj": {}
+    "/Users/apliska873/GitHub/cs-projects/noteApp/noteApp/noteApp.csproj": {}
   },
   "projects": {
-    "/Users/apliska873/GitHub/cs-projects/CSharpSandbox/CSharpSandbox/CSharpSandbox.csproj": {
+    "/Users/apliska873/GitHub/cs-projects/noteApp/noteApp/noteApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/apliska873/GitHub/cs-projects/CSharpSandbox/CSharpSandbox/CSharpSandbox.csproj",
-        "projectName": "CSharpSandbox",
-        "projectPath": "/Users/apliska873/GitHub/cs-projects/CSharpSandbox/CSharpSandbox/CSharpSandbox.csproj",
+        "projectUniqueName": "/Users/apliska873/GitHub/cs-projects/noteApp/noteApp/noteApp.csproj",
+        "projectName": "noteApp",
+        "projectPath": "/Users/apliska873/GitHub/cs-projects/noteApp/noteApp/noteApp.csproj",
         "packagesPath": "/Users/apliska873/.nuget/packages/",
-        "outputPath": "/Users/apliska873/GitHub/cs-projects/CSharpSandbox/CSharpSandbox/obj/",
+        "outputPath": "/Users/apliska873/GitHub/cs-projects/noteApp/noteApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/apliska873/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -36,8 +36,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
