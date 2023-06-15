@@ -9,8 +9,8 @@ namespace CSharpSandbox
             LeetCode leet = new LeetCode();
 
 
-            string s = "()[]({})";
-            Console.WriteLine(leet.IsValid(s));
+            string s = "aaaa";
+            Console.WriteLine(leet.LongestPalindrome(s));
         }
     }
 }
