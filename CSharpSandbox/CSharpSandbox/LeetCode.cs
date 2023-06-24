@@ -114,4 +114,37 @@
         }
         return longestPalindromeString;
     }
+
+    public string ZigZagConversion(string s, int numRows)
+    {
+        string result = "";
+        bool increasing = true;
+        
+        for (int targetPosition = 1; targetPosition <= numRows; targetPosition++)
+        {
+            int zzposition = 1;
+            for (int j = 0; j < s.Length; j++)
+            {
+                if (numRows == 1)
+                    zzposition = 1;
+                else if (zzposition == 1)
+                    increasing = true;
+                else if (zzposition == numRows)
+                    increasing = false;
+                /////////////////////////
+                
+                if(targetPosition == zzposition)
+                    result += s[j];
+
+                /////////////////////////
+                if (increasing)
+                    zzposition++;
+                else
+                    zzposition--;
+            }
+        }
+
+        return result;
+    }
+
 }

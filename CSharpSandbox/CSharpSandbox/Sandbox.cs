@@ -8,9 +8,10 @@ namespace CSharpSandbox
             Algorithms a = new Algorithms();
             LeetCode leet = new LeetCode();
 
-
-            string s = "aaaa";
-            Console.WriteLine(leet.LongestPalindrome(s));
+            string s1 = "AB";
+            string s2 = "PAYPALISHIRING";
+            Console.WriteLine(leet.ZigZagConversion(s1, 1));
+            Console.WriteLine(leet.ZigZagConversion(s2, 4));
         }
     }
 }
